@@ -14,4 +14,4 @@ This is a simple digital clock created using Python's `tkinter` library. The clo
 - Uses `tkinter` for GUI.
 
 ## License:
-This project is open-source and available under the MIT License. See the [LICENSE](./LICENSE) file for details.
+This project is open-source and available under the MIT License. See the [LICENSE](./license) file for details.
